@@ -15,7 +15,9 @@
 
 ![](Image/远端补偿.png)
 
-![](Image/Plus远端补偿线.png)![](Image/电源管理模块Chassis小板.png)
+![](Image/Plus远端补偿线.png)
+
+![](Image/电源管理模块Chassis小板.png)
 
 > 由于使用的是STM32G4内部的运算放大器，蓝色的线条是我画上去方便观看的。
 
