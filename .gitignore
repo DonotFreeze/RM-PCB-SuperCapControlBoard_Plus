@@ -4,3 +4,6 @@
 /*backups
 /*.lck
 fp-info-cache
+
+# VS Code Local History（含嵌套 .git 仓库，不可入库）
+.history/
